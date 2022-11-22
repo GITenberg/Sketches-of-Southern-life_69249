@@ -1,5 +1,8 @@
 _repo: Sketches-of-Southern-life_69249
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69249-h/images/cover.jpg
 creator:
   author:
     agent_name: Harper, Frances Ellen Watkins
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/345
     wikipedia: https://en.wikipedia.org/wiki/Frances_Harper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69249#Sketches-of-Southern-life
 gutenberg_issued: '2022-10-27'
 identifiers:
   gutenberg: '69249'
